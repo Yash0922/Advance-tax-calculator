@@ -1,4 +1,4 @@
-console.log("App JS");
+
 
 EMPLOYER_PF = 21600;
 PROFESSIONAL_TAX = 2500;
